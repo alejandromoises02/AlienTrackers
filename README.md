@@ -28,6 +28,20 @@ There are **9 total alien images** used in the app:
 
 🧩 The image that appears is dynamically chosen depending on the **dominant media category** completed and whether the user has made **light** or **heavy** progress in that category.
 
+
+## 🎖 Diversifiers Applied
+
+✅ **Edge-Only** – Fully client-side with all data stored in localStorage.
+
+✅ **Zero-Friction Onboarding** – Add a task, check it off, and get a recommendation in <30s.
+
+✅ **XP Tracker** – The alien mascot evolves based on your completed content.
+
+✅ **Data Steward** – All your data is kept private in your browser only.
+
+✅ **Accessibility First** – Fully navigable via keyboard and screen readers.
+
+
 ---
 
 ## 🛠️ Built With
