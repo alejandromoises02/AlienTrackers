@@ -32,7 +32,7 @@ There are **9 total alien images** used in the app:
 
 ## 🛠️ Built With
 
-- [Vercel's v0.dev AI builder](https://v0.dev/chat/single-page-to-do-app-5JymOdoj9vi)
+- [Vercel's v0.dev AI builder](https://v0.dev/chat/5JymOdoj9vi)
 - React (via Vercel's auto-generated setup)
 - No backend – uses `localStorage` for persistence
 
