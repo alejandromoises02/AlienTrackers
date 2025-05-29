@@ -73,3 +73,5 @@ Clone the repo:
 ```bash
 git clone https://github.com/your-username/culture-companion.git
 cd culture-companion
+npm install
+npm run dev
